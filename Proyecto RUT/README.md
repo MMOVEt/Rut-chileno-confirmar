@@ -8,7 +8,6 @@ Este proyecto se encarga de validar RUTs de forma eficiente utilizando Python.
 - Compatible con Python 3.6+.
 - Fácil de usar e instalar.
 
-## 📋 Requisitos
+## 📋 Requisitos e información
 - Python 3.6 o superior
-
-## Se ira actualizando conforme nuevas directrices o actualizaciones mismas del lenguaje.
+Se ira actualizando conforme nuevas directrices o actualizaciones mismas del lenguaje.
