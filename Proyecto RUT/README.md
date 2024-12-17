@@ -10,10 +10,3 @@ Este proyecto se encarga de validar RUTs de forma eficiente utilizando Python.
 
 ## 📋 Requisitos
 - Python 3.6 o superior
-
-
-## 📦 Instalación
-```bash
-git clone https://github.com/tu_usuario/tu_repositorio.git
-cd tu_repositorio
-python main.py
